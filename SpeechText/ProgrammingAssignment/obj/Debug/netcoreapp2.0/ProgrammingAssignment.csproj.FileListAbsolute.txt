@@ -1,0 +1,44 @@
+/Users/ryanlacerna/Documents/Development workspace/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.deps.json
+/Users/ryanlacerna/Documents/Development workspace/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.runtimeconfig.json
+/Users/ryanlacerna/Documents/Development workspace/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.runtimeconfig.dev.json
+/Users/ryanlacerna/Documents/Development workspace/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.dll
+/Users/ryanlacerna/Documents/Development workspace/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.pdb
+/Users/ryanlacerna/Documents/Development workspace/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.csprojResolveAssemblyReference.cache
+/Users/ryanlacerna/Documents/Development workspace/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.csproj.CoreCompileInputs.cache
+/Users/ryanlacerna/Documents/Development workspace/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.AssemblyInfoInputs.cache
+/Users/ryanlacerna/Documents/Development workspace/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.AssemblyInfo.cs
+/Users/ryanlacerna/Documents/Development workspace/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.dll
+/Users/ryanlacerna/Documents/Development workspace/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.pdb
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.deps.json
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.runtimeconfig.json
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.runtimeconfig.dev.json
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.dll
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.pdb
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.csproj.CoreCompileInputs.cache
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.AssemblyInfoInputs.cache
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.AssemblyInfo.cs
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.dll
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.pdb
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.csprojAssemblyReference.cache
+C:/Users/ryan.lacerna/Documents/DevelopmentProjects/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.deps.json
+C:/Users/ryan.lacerna/Documents/DevelopmentProjects/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.runtimeconfig.json
+C:/Users/ryan.lacerna/Documents/DevelopmentProjects/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.runtimeconfig.dev.json
+C:/Users/ryan.lacerna/Documents/DevelopmentProjects/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.dll
+C:/Users/ryan.lacerna/Documents/DevelopmentProjects/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.pdb
+C:/Users/ryan.lacerna/Documents/DevelopmentProjects/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.csproj.CoreCompileInputs.cache
+C:/Users/ryan.lacerna/Documents/DevelopmentProjects/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.AssemblyInfoInputs.cache
+C:/Users/ryan.lacerna/Documents/DevelopmentProjects/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.AssemblyInfo.cs
+C:/Users/ryan.lacerna/Documents/DevelopmentProjects/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.dll
+C:/Users/ryan.lacerna/Documents/DevelopmentProjects/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.pdb
+C:/Users/ryan.lacerna/Documents/DevelopmentProjects/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.csprojAssemblyReference.cache
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.csprojAssemblyReference.cache
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.csproj.CoreCompileInputs.cache
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.AssemblyInfoInputs.cache
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.AssemblyInfo.cs
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.dll
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/SpeechText/ProgrammingAssignment/obj/Debug/netcoreapp2.0/ProgrammingAssignment.pdb
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.deps.json
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.runtimeconfig.json
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.runtimeconfig.dev.json
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.dll
+/Users/ryanlacerna/Documents/Development workspace/SpeechText/SpeechText/ProgrammingAssignment/bin/Debug/netcoreapp2.0/ProgrammingAssignment.pdb
